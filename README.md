@@ -3,7 +3,7 @@
  
 - I’m interested in software development (full-stack).👀 
 - Currently a sophomore in college, Studying Computer Science
-- How to reach me: linkedin.com/in/arian-partovi-b433ba26b
+- How to reach me: www.linkedin.com/in/arianpartovi
   
 <h1> <b>👨‍💻Current Endeavors </b></h1>
 <p> I'm currently learning backend and frontend development, my journey involves both building and learning. Here's what I'm currently focused on: </p>
